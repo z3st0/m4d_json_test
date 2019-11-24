@@ -1,19 +1,34 @@
 {
-  "Treatment":{
-      "id": 1,
-      "userId": 1,
-      "patientId": 1111,
-      "age": 23,
-      "occupation": "Employee",
-      "underlying_disease": false,
-      "nausea": false,
-      "bleeding": true,
-      "petechia": false,
-      "myalgia": true,
-      "ns1_rapid_test": "none",
-      "tourniquet_test": "none"
+  "Treatment": {
+    "id": 1,
+    "userId": 1,
+    "patientId": 1111,
+    "age": 23,
+    "occupation": "Employee",
+    "underlying_disease": false,
+    "nausea": false,
+    "bleeding": true,
+    "petechia": false,
+    "myalgia": true,
+    "ns1_rapid_test": "none",
+    "tourniquet_test": "none"
   },
-  "Treatment2":{
+  "Treatment2": {
+    "id": 2,
+    "userId": 2,
+    "patientId": 2222,
+    "age": 43,
+    "occupation": "Student",
+    "underlying_disease": true,
+    "nausea": true,
+    "bleeding": false,
+    "petechia": true,
+    "myalgia": false,
+    "ns1_rapid_test": "true",
+    "tourniquet_test": "true"
+  },
+  "Treatments": [
+    {
       "id": 2,
       "userId": 2,
       "patientId": 2222,
@@ -26,5 +41,20 @@
       "myalgia": false,
       "ns1_rapid_test": "true",
       "tourniquet_test": "true"
-  }
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "patientId": 2222,
+      "age": 43,
+      "occupation": "Student",
+      "underlying_disease": true,
+      "nausea": true,
+      "bleeding": false,
+      "petechia": true,
+      "myalgia": false,
+      "ns1_rapid_test": "true",
+      "tourniquet_test": "true"
+    }
+  ]
 }
