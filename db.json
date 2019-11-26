@@ -11,7 +11,17 @@
     "petechia": false,
     "myalgia": true,
     "ns1_rapid_test": "none",
-    "tourniquet_test": "none"
+    "tourniquet_test": "none",
+    "days_of_fever": 2,
+    "ast/astl_ratio": 40,
+    "platelets": 434,
+    "hematocrits": 353,
+    "white_blood_cells": 123,
+    "lymphocytes": 42,
+    "atypical lymphocytes": 32,
+    "outcome_bn": 65,
+    "outcome_rl": true,
+    "timestamp": "26-11-2019"
   },
   "Treatment2": {
     "id": 2,
@@ -25,22 +35,42 @@
     "petechia": true,
     "myalgia": false,
     "ns1_rapid_test": "true",
-    "tourniquet_test": "true"
+    "tourniquet_test": "true",
+    "days_of_fever": 1,
+    "ast/astl_ratio": 20,
+    "platelets": 234,
+    "hematocrits": 128,
+    "white_blood_cells": 65,
+    "lymphocytes": 78,
+    "atypical lymphocytes": 16,
+    "outcome_bn": 30,
+    "outcome_rl": false,
+    "timestamp": "19-11-2019"
   },
   "Treatments": [
     {
-    "id": 1,
-    "userId": 1,
-    "patientId": 1111,
-    "age": 23,
-    "occupation": "Employee",
-    "underlying_disease": false,
-    "nausea": false,
-    "bleeding": true,
-    "petechia": false,
-    "myalgia": true,
-    "ns1_rapid_test": "none",
-    "tourniquet_test": "none"
+      "id": 1,
+      "userId": 1,
+      "patientId": 1111,
+      "age": 23,
+      "occupation": "Employee",
+      "underlying_disease": false,
+      "nausea": false,
+      "bleeding": true,
+      "petechia": false,
+      "myalgia": true,
+      "ns1_rapid_test": "none",
+      "tourniquet_test": "none",
+      "days_of_fever": 2,
+      "ast/astl_ratio": 40,
+      "platelets": 434,
+      "hematocrits": 353,
+      "white_blood_cells": 123,
+      "lymphocytes": 42,
+      "atypical lymphocytes": 32,
+      "outcome_bn": 65,
+      "outcome_rl": true,
+      "timestamp": "26-11-2019"
     },
     {
       "id": 2,
@@ -54,7 +84,17 @@
       "petechia": true,
       "myalgia": false,
       "ns1_rapid_test": "true",
-      "tourniquet_test": "true"
+      "tourniquet_test": "true",
+      "days_of_fever": 1,
+      "ast/astl_ratio": 20,
+      "platelets": 234,
+      "hematocrits": 128,
+      "white_blood_cells": 65,
+      "lymphocytes": 78,
+      "atypical lymphocytes": 16,
+      "outcome_bn": 30,
+      "outcome_rl": false,
+      "timestamp": "19-11-2019"
     }
   ]
 }
