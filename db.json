@@ -127,30 +127,6 @@
     "outcome_rl": true,
     "timestamp": "26-11-2019"
   },
-  "Report2": {
-    "id": 2,
-    "userId": 2,
-    "patientId": 2222,
-    "age": 43,
-    "occupation": "Student",
-    "underlying_disease": true,
-    "nausea": true,
-    "bleeding": false,
-    "petechia": true,
-    "myalgia": false,
-    "ns1_rapid_test": "none",
-    "tourniquet_test": "none",
-    "days_of_fever": 1,
-    "ast_atl_ratio": 20,
-    "platelets": 234,
-    "hematocrits": 128,
-    "white_blood_cells": 65,
-    "lymphocytes": 78,
-    "atypical_lymphocytes": 16,
-    "outcome_bn": 30,
-    "outcome_rl": false,
-    "timestamp": "19-11-2019"
-  },
   "Reports": [
     {
       "id": 1,
