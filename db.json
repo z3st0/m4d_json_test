@@ -4,7 +4,7 @@
       {
         "id": 1,
         "userId": 1,
-        "patientId": 12345,
+        "patientId": "12345",
         "age": 23,
         "occupation": "Employee",
         "underlying_disease": false,
@@ -28,7 +28,7 @@
       {
         "id": 2,
         "userId": 2,
-        "patientId": 12345,
+        "patientId": "12345",
         "age": 43,
         "occupation": "Student",
         "underlying_disease": true,
@@ -54,7 +54,7 @@
   "Report1": {
     "id": 1,
     "userId": 1,
-    "patientId": 1111,
+    "patientId": "1111",
     "age": 23,
     "occupation": "Employee",
     "underlying_disease": false,
@@ -79,7 +79,7 @@
     {
       "id": 1,
       "userId": 1,
-      "patientId": 1111,
+      "patientId": "1111",
       "age": 23,
       "occupation": "Employee",
       "underlying_disease": false,
@@ -103,7 +103,7 @@
     {
       "id": 2,
       "userId": 2,
-      "patientId": 2222,
+      "patientId": "2222",
       "age": 43,
       "occupation": "Student",
       "underlying_disease": true,
@@ -132,7 +132,7 @@
         {
           "id": 1,
           "userId": 1,
-          "patientId": 12345,
+          "patientId": "12345",
           "age": 23,
           "occupation": "Employee",
           "underlying_disease": false,
@@ -156,7 +156,7 @@
         {
           "id": 2,
           "userId": 2,
-          "patientId": 12345,
+          "patientId": "12345",
           "age": 43,
           "occupation": "Student",
           "underlying_disease": true,
@@ -185,7 +185,7 @@
         {
           "id": 1,
           "userId": 1,
-          "patientId": 11111,
+          "patientId": "11111",
           "age": 23,
           "occupation": "Employee",
           "underlying_disease": false,
@@ -209,7 +209,7 @@
         {
           "id": 2,
           "userId": 2,
-          "patientId": 11111,
+          "patientId": "11111",
           "age": 43,
           "occupation": "Student",
           "underlying_disease": true,
